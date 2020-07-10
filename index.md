@@ -43,19 +43,20 @@ Zu vergeben sind 3 Positionen
 2. Healer können Waffen wie <img src="https://cdn.discordapp.com/emojis/594613521950441481.png?v=1" alt="Alt-Text" title="" width="30" height="30"/> oder <img src="https://cdn.discordapp.com/emojis/594613521581473851.png?v=1" alt="Alt-Text" title="" width="30" height="30"/> nutzen
 3. Tanks sollten ein <img src="https://cdn.discordapp.com/emojis/594613521648713767.png?v=1" alt="Alt-Text" title="" width="30" height="30"/>  haben.
 
-Der aufbau eines Team gestalltet sich wiefolgt:
+Der aufbau eines Team gestalltet sich wiefolgt:<br>
 owo team add elephant 1 (vorrausgesetzt man besitzt schon einen Elefanten... Töröööö)
 
 
 ### Level:
 
-Auch wenn ein Team am Anfang öfters stirbt, heißt es nicht das es schlecht ist. Desto höher dein Level ist desto stärker wird es.
+Auch wenn ein Team am Anfang öfters stirbt, heißt es nicht das es schlecht ist. Je höher dein Level ist desto stärker wird es.
 
+### Huntbot:
 
 Huntbots dienen dazu automatisch Tiere für dich zu sammeln, von daher ist es wichtig, dass du einen guten huntbot hast. Du kannst deinen huntbot mithilfe von Animal essence verbessern.
 
-Mit den Gefangenen Tieren hat Man die Möglichkeit zwischen owo sell und owo sacrifice zu wählen.
-Mit owo sell verdient man Geld und mit owo sacrifice verdient man die gebrauchten Animal essences. 
+Mit den Gefangenen Tieren hat man die Möglichkeit zwischen owo sell und owo sacrifice(owo sc) zu wählen.
+Mit owo sell erhält man <img src="https://cdn.discordapp.com/emojis/416043450337853441.png?v=1" alt="Alt-Text" title="" width="15" height="15"/> Geld und mit owo sacrifice erhält man <img src="https://cdn.discordapp.com/emojis/451638978299428875.gif?v=1" alt="Alt-Text" title="" width="15" height="15"/> Animal essences. 
 
 Das verkaufen von Tieren bringt euch aber nicht mehr als Geld, weshalb ich davon abrate.
 
