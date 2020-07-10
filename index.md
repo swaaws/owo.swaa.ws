@@ -1,15 +1,6 @@
-### Welcome to LALA´s OwO einlauf.
-Ja Hier einführung
+<p align="center">
+  <img src="https://discord.com/assets/a72f391b6469dda5077b1de1fcc4d18f.svg" alt=" "/><br>Lara.#0001<br>
+  <img src="https://cdn.discordapp.com/avatars/502102413226803202/a_6092d40593a3ecd3a57beee96ab0e97f.gif?size=128" alt=" "/>
+</p>
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
-
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
-
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <img src="https://cdn.discordapp.com/emojis/594613521271095299.png?v=1" alt="Alt-Text" title="" width="20" height="20"/>
