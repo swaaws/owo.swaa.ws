@@ -11,21 +11,20 @@ Bei diesem Spiel geht es darum sich gute Tiere und Waffen zu erarbeiten und so e
 
 ### Commands:
 
-Owo h -> Tiere hunten 
-Owo b -> Mit seinem Team gegen andere kämpfen
-Owo pray -> Glück Punkte verdienen
-Owo hb -> automatisches sammeln von Tieren 
-Owo inv -> Einblick in das Inventar 
-Owo lb all -> lootboxen öffnen
-Owo use (Nummer) -> Verwendung verschiedener Sachen 
-Owo wc all -> crates öffnen 
-Owow -> Übersicht der Waffen 
+Owo h -> Tiere hunten <br>
+Owo b -> Mit seinem Team gegen andere kämpfen<br>
+Owo pray -> Glück Punkte verdienen<br>
+Owo hb -> automatisches sammeln von Tieren<br> 
+Owo inv -> Einblick in das Inventar <br>
+Owo lb all -> lootboxen öffnen<br>
+Owo use (Nummer) -> Verwendung verschiedener Sachen<br> 
+Owo wc all -> crates öffnen <br>
+Owow -> Übersicht der Waffen <br>
 
 ### Die ersten Schritte:
-
-1.  -> öffne deine Lootboxen
+1. <img src="https://cdn.discordapp.com/emojis/630496019989266432.png?v=1" alt="Alt-Text" title="" width="30" height="30"/> -> öffne deine Lootboxen
    Aktiviere deine Diamanten für bessere hunts 
-2.  -> öffne deine crates 
+2. <img src="https://cdn.discordapp.com/emojis/621848189133258756.png?v=1" alt="Alt-Text" title="" width="30" height="30"/> -> öffne deine crates 
 3. Stelle ein Team zusammen
 
 ### Zusammenstellung eines guten Teams:
@@ -35,13 +34,15 @@ Ein gutes Team sollte einen damage dealer, healer und tank haben. Am Anfang soll
 Da es sicherlich am Anfang sehr schwer ist zu verstehen welches Tier wofür bestimmt ist und welche Art von Waffe diese besitzen sollte fasse ich es für den Anfang grob zusammen:
 
 Zu vergeben sind 3 Positionen
-1. Damage dealer
-2. Healer
+1. Damage dealer.
+2. Healer.  
 3. Tank
 
-1. Damage dealer können Waffen wie   und   nutzen.
-2. Healer können Waffen wie  oder  
-3. Tanks sollten ein   haben.
+1. Damage dealer können Waffen wie <img src="https://cdn.discordapp.com/emojis/594613521271095299.png?v=1" alt="Alt-Text" title="" width="30" height="30"/>  und <img src="https://cdn.discordapp.com/emojis/594613521367695364.png?v=1" alt="Alt-Text" title="" width="30" height="30"/>  nutzen.
+2. Healer können Waffen wie <img src="https://cdn.discordapp.com/emojis/594613521950441481.png?v=1" alt="Alt-Text" title="" width="30" height="30"/> oder <img src="https://cdn.discordapp.com/emojis/594613521581473851.png?v=1" alt="Alt-Text" title="" width="30" height="30"/> nutzen
+3. Tanks sollten ein <img src="https://cdn.discordapp.com/emojis/594613521648713767.png?v=1" alt="Alt-Text" title="" width="30" height="30"/>  haben.
+
+
 
 ### Level:
 
