@@ -12,4 +12,4 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-<img src="https://cdn.discordapp.com/emojis/594613521271095299.png?v=1" alt="Alt-Text" title="" width="50" height="50"/>
+<img src="https://cdn.discordapp.com/emojis/594613521271095299.png?v=1" alt="Alt-Text" title="" width="10" height="10"/>
